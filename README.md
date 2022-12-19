@@ -17,9 +17,9 @@ In continuare comenzile pentru linux(terminal) si windows(git bash) sunt comune.
 
 ## Pasii pentru incarcarea laboratorului
 
-- Pasul 1 -> Alegeti username-ul sau numele vostru din lista de mai jos
+- Pasul 1 -> Intrati pe link-ul de la laborator
 <p align="center">
-  <img src="https://github.com/Laborator-POO-2021/Tutorial-upload/blob/master/pasul1.png" />
+  <img src="https://github.com/Laborator-POO-2022-2023/Tutorial/blob/main/1.png" />
 </p>
 
 - Pasul 2.0 -> Asteptati pana cand se creeaza repository-ul apoi dati refresh la pagina
@@ -30,6 +30,11 @@ In continuare comenzile pentru linux(terminal) si windows(git bash) sunt comune.
 - Pasul 2.1 -> Accesati link-ul de la repository
 <p align="center">
   <img src="https://github.com/Laborator-POO-2021/Tutorial-upload/blob/master/pasul2.png" />
+</p>
+- Pasul 2.2 -> Schimbati-va numele repository-ului de la Settings
+   - Formatul va fi Grupa-nume-prenume, exemplu: 322AB-Trifu-Marius
+<p align="center">
+  <img src="https://github.com/Laborator-POO-2022-2023/Tutorial/blob/main/5.png" />
 </p>
 
 - Pasul 3 -> La unul din pasii urmatori veti avea nevoie de link-ul din poza
