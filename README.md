@@ -31,8 +31,10 @@ In continuare comenzile pentru linux(terminal) si windows(git bash) sunt comune.
 <p align="center">
   <img src="https://github.com/Laborator-POO-2021/Tutorial-upload/blob/master/pasul2.png" />
 </p>
+
 - Pasul 2.2 -> Schimbati-va numele repository-ului de la Settings
-   - Formatul va fi Grupa-nume-prenume, exemplu: 322AB-Trifu-Marius
+   - <b>Formatul va fi Grupa-nume-prenume, exemplu: 322AB-Trifu-Marius</b>
+
 <p align="center">
   <img src="https://github.com/Laborator-POO-2022-2023/Tutorial/blob/main/5.png" />
 </p>
