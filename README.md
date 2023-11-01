@@ -33,7 +33,7 @@ In continuare comenzile pentru linux(terminal) si windows(git bash) sunt comune.
 </p>
 
 - Pasul 2.2 -> Schimbati-va numele repository-ului de la Settings
-   - <b>Formatul va fi Grupa-nume-prenume, exemplu: 322AB-Trifu-Marius</b>
+   - <b>Formatul va fi laborator-nr-Grupa-nume-prenume, exemplu: laborator-1-322AB-Trifu-Marius</b>
 
 <p align="center">
   <img src="https://github.com/Laborator-POO-2022-2023/Tutorial/blob/main/5.png" />
